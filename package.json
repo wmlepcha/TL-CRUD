@@ -4,7 +4,7 @@
   "description": "Techlink contact form",
   "main": "app.js",
   "scripts": {
-    "start" : "nodemon app.js"
+    "start": "nodemon app.js"
   },
   "author": "Wilbur Lepcha",
   "license": "ISC",

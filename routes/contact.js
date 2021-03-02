@@ -9,6 +9,7 @@ router.post("/", async (req, res) => {
       name: req.body.name,
       email: req.body.email,
       mobile: req.body.mobile,
+      message:req.body.message
     });
   
     try {
